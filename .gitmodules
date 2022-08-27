@@ -1,0 +1,4 @@
+[submodule "rust-bitcoin"]
+	path = src/rust-bitcoin
+	url = https://github.com/ComputerCraftr/rust-bitcoin
+	branch = 0.21-testing
